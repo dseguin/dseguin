@@ -7,5 +7,5 @@
 
 ##### Some stats about my activity:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dseguin&show_icons=true&theme=vue-dark&hide=stars,issues&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![lowlighter/metrics](https://gist.githubusercontent.com/dseguin/8fd13b9c0b105a34cc692df07344091f/raw/metrics-img.svg)](https://github.com/lowlighter/metrics#-metrics-)
 
